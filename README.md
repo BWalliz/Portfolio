@@ -4,7 +4,8 @@
   - N
 
 - [x] **Python** - 
-  - M
+  - Web Scraping Project: Ski Resort Analysis <br />
+*Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
 - [x] **Tableau** -
 
