@@ -21,6 +21,8 @@ View all of my Tableau Projects on my Tableau Public Profile: [Click here](https
 
 ![Supermarket Sales Performance](https://github.com/BWalliz/Portfolio/blob/main/Assets/supermarket_sales_dashboard.png)
 
+  - [Video Game Analytics](https://public.tableau.com/views/VideoGameAnalytics/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 - [x] **Excel** -
 
   - Supermarket Sales Performance:
