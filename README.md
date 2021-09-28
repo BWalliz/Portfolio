@@ -24,7 +24,7 @@ View all of my Tableau Projects on my Tableau Public Profile: [Click here](https
 
 - [x] **Excel** -
 
-  - Supermarket Sales Performance:
+- Supermarket Sales Performance:
 
 ![Supermarket Sales Performance](https://github.com/BWalliz/Portfolio/blob/main/Assets/supermarket_sales_xlsx.png)
 
