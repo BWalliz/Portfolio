@@ -7,6 +7,9 @@
   - Web Scraping Project: Ski Resort Analysis <br />
 *Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
+| Machine Learning Projects | Description |
+| ------------------------- | ----------- |
+
 - [x] **Tableau** -
 
 View all of my Tableau Projects on my Tableau Public Profile: [Click here](https://public.tableau.com/app/profile/brandon.wallace)
