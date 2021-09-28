@@ -1,8 +1,5 @@
 # Portfolio
 
-- [x] **SQL** - 
-  - N
-
 - [x] **Python** - 
   - Web Scraping Project: Ski Resort Analysis <br />
 *Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
@@ -30,5 +27,9 @@ View all of my Tableau Projects on my Tableau Public Profile: [Click here](https
   - Supermarket Sales Performance:
 
 ![Supermarket Sales Performance](https://github.com/BWalliz/Portfolio/blob/main/Assets/supermarket_sales_xlsx.png)
+
+  - Account Manager Pivot Report:
+
+![Account Manager Pivot Report](https://github.com/BWalliz/Portfolio/blob/main/Assets/account_manager_pivot_xlsx.png)
 
 
