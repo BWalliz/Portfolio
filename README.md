@@ -4,10 +4,10 @@
   - Web Scraping Project: Ski Resort Analysis <br />
 *Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
-| Machine Learning Projects | Description |
+| Machine Learning Projects | Methods |
 | ------------------------- | ----------- |
-| [Spam Classifier](https://github.com/BWalliz/Machine-Learning-Projects/blob/main/Spam%20Classifier/spam_classifier.ipynb) | Implementation of various classification algorithms such as KNN, SVM, RandomForest, DecisionTree, etc. to predict whether an email is spam or ham | 
-| [Heart Disease Prediction](https://github.com/BWalliz/Machine-Learning-Projects/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb) | Deployed various models to classify whether an individual has heart disease or not based off of many different attributes |
+| [Spam Classifier](https://github.com/BWalliz/Machine-Learning-Projects/blob/main/Spam%20Classifier/spam_classifier.ipynb) | `XGBoost`, `Gradient Boost` | 
+| [Heart Disease Prediction](https://github.com/BWalliz/Machine-Learning-Projects/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb) | `Logistic Reg.`, `SVM`, `Random Forest` |
 | [Audi Price Regression](https://github.com/BWalliz/Machine-Learning-Projects/blob/main/Audi%20Price%20Regression/audi_price_regression.ipynb) |
 
 - [x] **Tableau** -
