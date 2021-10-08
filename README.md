@@ -7,7 +7,7 @@
 | Machine Learning Projects | Methods |
 | ------------------------- | ----------- |
 | [Audi Price Regression](https://github.com/BWalliz/Portfolio/blob/main/Python/Machine%20Learning/Audi%20Price%20Regression/audi_price_regression.ipynb) | `MLP Reg.`, `Linear SVR`, `Linear Reg` |
-| [Loan Repayment Prediction](https://github.com/BWalliz/Machine-Learning-Projects/blob/main/Audi%20Price%20Regression/audi_price_regression.ipynb) | `Decision Tree`, `Gradient Boost` |
+| [Loan Repayment Prediction](https://github.com/BWalliz/Portfolio/blob/main/Python/Machine%20Learning/Loan%20Repayment%20Prediction/loan_repayment_prediction.ipynb) | `Decision Tree`, `Gradient Boost` |
 | [Spam Classifier](https://github.com/BWalliz/Portfolio/blob/main/Python/Machine%20Learning/Spam%20Classifier/spam_classifier.ipynb) | `XGBoost`, `Gradient Boost`, `Decision Tree` | 
 | [Heart Disease Prediction](https://github.com/BWalliz/Portfolio/blob/main/Python/Machine%20Learning/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb) | `Logistic Reg.`, `SVM`, `Random Forest` |
 
