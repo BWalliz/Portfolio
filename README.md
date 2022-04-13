@@ -1,6 +1,8 @@
 # Portfolio
 
-- [x] **Python** - 
+- [x] **Python** -
+ - Reddit API Pipeline - Extracted Reddit Data and loaded utilizing AWS services (S3, Redshit, EC2) before being transformed with dbt and vizualised with PowerBI <br />
+ **[Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)**
   - Web Scraping Project: Ski Resort Analysis <br />
 *Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
