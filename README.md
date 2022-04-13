@@ -1,8 +1,10 @@
 # Portfolio
 
 - [x] **Python** -
- - Reddit API Pipeline - Extracted Reddit Data and loaded utilizing AWS services (S3, Redshit, EC2) before being transformed with dbt and vizualised with PowerBI <br />
- **[Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)**
+ - Reddit API Pipeline - ELT pipeline that extracts Reddit data, loads into s3 bucket, and transports into Redshift before being transformed via dbt and visualized in a PowerBI dashboard. <br />
+ [Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)
+ - Surfline Telegram Bot - Telegram bot that provides daily surf updates retrieved from Surfline's API. <br />
+ [Review Here](https://github.com/BWalliz/Surfline-Forecast-Bot)
   - Web Scraping Project: Ski Resort Analysis <br />
 *Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
