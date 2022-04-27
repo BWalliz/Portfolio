@@ -1,6 +1,6 @@
 # Portfolio
 
-- [x] **Python** -
+- [x] **Python** 
  - Reddit API Pipeline - ELT pipeline that extracts Reddit data, loads into s3 bucket, and transports into Redshift before being transformed via dbt and visualized in a PowerBI dashboard. <br />
  [Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)
  - Surfline Telegram Bot - Telegram bot that provides daily surf updates retrieved from Surfline's API. <br />
@@ -15,8 +15,11 @@
 | [Spam Classifier](https://github.com/BWalliz/Portfolio/blob/main/Python/Machine%20Learning/Spam%20Classifier/spam_classifier.ipynb) | `XGBoost`, `Gradient Boost`, `Decision Tree` | 
 | [Heart Disease Prediction](https://github.com/BWalliz/Portfolio/blob/main/Python/Machine%20Learning/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb) | `Logistic Reg.`, `SVM`, `Random Forest` |
 
+- [x] **SQL** 
+ - Instagram Clone Data Analysis Project<br />
+ *Review the Data Insertion Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_insertion_script.sql)**
 
-- [x] **Tableau** -
+- [x] **Tableau** 
 
 View all of my Tableau Projects on my Tableau Public Profile: [Click here](https://public.tableau.com/app/profile/brandon.wallace)
 
