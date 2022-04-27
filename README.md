@@ -17,7 +17,8 @@
 
 - [x] **SQL** 
  - Instagram Clone Data Analysis Project<br />
- *Review the Data Insertion Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_insertion_script.sql)**
+ *Review the Data Insertion Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_insertion_script.sql)** <br />
+ *Review the Data Exploration Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_data_exploration.sql)** 
 
 - [x] **Tableau** 
 
