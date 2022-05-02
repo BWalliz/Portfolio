@@ -21,6 +21,8 @@
  *Review the Data Insertion Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_insertion_script.sql)** <br />
  *Review the Data Exploration Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_data_exploration.sql)** 
 
+![Instagram Clone Dashboard](https://github.com/BWalliz/Portfolio/blob/main/Assets/instagram_clone_data_analysis_dashboard.png)
+
 - [x] **Tableau** 
 
 View all of my Tableau Projects on my Tableau Public Profile: **[Click here](https://public.tableau.com/app/profile/brandon.wallace)**
