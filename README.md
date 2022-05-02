@@ -2,9 +2,9 @@
 
 - [x] **Python** 
  - Reddit API Pipeline - ELT pipeline that extracts Reddit data, loads into s3 bucket, and transports into Redshift before being transformed via dbt and visualized in a PowerBI dashboard. <br />
- [Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)
+ **[Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)**
  - Surfline Telegram Bot - Telegram bot that provides daily surf updates retrieved from Surfline's API. <br />
- [Review Here](https://github.com/BWalliz/Surfline-Forecast-Bot)
+ **[Review Here](https://github.com/BWalliz/Surfline-Forecast-Bot)**
   - Web Scraping Project: Ski Resort Analysis <br />
 *Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
@@ -17,6 +17,7 @@
 
 - [x] **SQL** 
  - Instagram Clone Data Analysis Project<br />
+ *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard_16515121408130/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)** <br />
  *Review the Data Insertion Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_insertion_script.sql)** <br />
  *Review the Data Exploration Script:* **[Here](https://github.com/BWalliz/Instagram-Clone-MySQL/blob/main/ig_clone_data_exploration.sql)** 
 
