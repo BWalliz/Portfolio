@@ -5,8 +5,6 @@
  **[Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)**
  - Local Surf Bot - Telegram bot that provides daily surf conditions of a single location, retreived from [Surfline's](https://www.surfline.com/) API <br />
  **[Review Here](https://github.com/BWalliz/Surfline-Forecast-Bot)**
-  - Web Scraping Project: Ski Resort Analysis <br />
-*Review the analysis in Markdown:* **[Here](https://github.com/BWalliz/Web-Scraping-Project/blob/main/ski_resort_analysis.ipynb)**
 
 | Machine Learning Projects | Methods |
 | ------------------------- | ----------- |
