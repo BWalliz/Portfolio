@@ -2,7 +2,7 @@
 
 - [x] **Python** 
  - Reddit API Pipeline - ELT pipeline that extracts Reddit data, loads into s3 bucket, and transports into Redshift before being transformed via dbt and visualized in a PowerBI dashboard. <br />
- **[Review Here](https://github.com/BWalliz/Reddit-API-Pipeline/)**
+ **[Review Here](https://github.com/BWalliz/Reddit-ELT-Pipeline/)**
  - Local Surf Bot - Telegram bot that provides daily surf conditions of a single location, retreived from [Surfline's](https://www.surfline.com/) API <br />
  **[Review Here](https://github.com/BWalliz/Surfline-Forecast-Bot)**
 
