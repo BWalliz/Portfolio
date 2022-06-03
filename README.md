@@ -39,8 +39,5 @@ View all of my Tableau Projects on my Tableau Public Profile: **[Click here](htt
 
 ![Supermarket Sales Performance](https://github.com/BWalliz/Portfolio/blob/main/Assets/supermarket_sales_xlsx.png)
 
-  - Account Manager Pivot Report:
-
-![Account Manager Pivot Report](https://github.com/BWalliz/Portfolio/blob/main/Assets/account_manager_pivot_xlsx.png)
 
 
